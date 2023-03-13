@@ -62,7 +62,7 @@ This will return an array of all channel details & stream URLs.
 
 ```js
 /// CBC-News-Streams.js Example - get single channel example.
-import {CBC_News} from 'https://cdn.jsdelivr.net/gh/MarketingPipeline/CBC-News-Streams.js@v1.0.0/dist/cbc-news-streams.min.js' 
+import {CBC_News_Streams} from 'https://cdn.jsdelivr.net/gh/MarketingPipeline/CBC-News-Streams.js@v1.0.0/dist/cbc-news-streams.min.js' 
 
 try {
     console.log(await CBC_News_Streams().getChannel("Toronto")) // returns a JSON object.
