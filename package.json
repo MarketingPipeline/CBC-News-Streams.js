@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "@MarketingPipeline/CBCNewsStreamsJS",
+  "description": "A JavaScript library for fetching free live TV stream URLs from CBC.ca / CBC News.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/MarketingPipeline/CBC-News-Streams.js",
+  "license": "MIT",
+  "main": "./dist/cbc-news-streams.min.js",
+  "bugs": {
+    "url": "https://github.com/MarketingPipeline/CBC-News-Streams.js/issues"
+  },
+  "author": {
+    "url": "https://github.com/MarketingPipeline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarketingPip/CBC-News-Streams.js.git"
+  }
+}
